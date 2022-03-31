@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Realizar operaciones realacionadas con la app VodQA" skipped="0" tests="1" time="2.77" timestamp="2022-01-04T18:03:18.575-05:00[America/Bogota]"><testcase name="Encontrar el numero uno de la opcion Carousel en la app VodQA"><failure message="The page object class com.jorge.automationmobil.utils.AccionesObjetos looks dodgy:&#10;Failed to instantiate page (net.thucydides.core.webdriver.UnsupportedDriverException: Could not instantiate class io.appium.java_client.AppiumDriver)" type="net.thucydides.core.pages.WrongPageError">The page object class com.jorge.automationmobil.utils.AccionesObjetos looks dodgy:
+Failed to instantiate page (net.thucydides.core.webdriver.UnsupportedDriverException: Could not instantiate class io.appium.java_client.AppiumDriver)</failure><system-err>The page object class com.jorge.automationmobil.utils.AccionesObjetos looks dodgy:
+Failed to instantiate page (net.thucydides.core.webdriver.UnsupportedDriverException: Could not instantiate class io.appium.java_client.AppiumDriver)&#13;
+com.jorge.automationmobil.runners.RunnerPersonalizado.run(RunnerPersonalizado.java:54)&#13;
+✽.Given Inicio sesion exitosa dentro de la  App VodQA "admin" "admin" "Samples List"(src/test/resources/features/App_Login.feature:7)&#13;
+</system-err></testcase></testsuite>
